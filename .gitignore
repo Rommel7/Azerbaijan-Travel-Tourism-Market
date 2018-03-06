@@ -1,0 +1,10 @@
+/node_modules
+/app/materials
+package-lock.json
+
+app/img/Ma.rar
+app/img/*.svg
+app/img/2.png
+app/img/3.png
+app/img/5.png
+app/img/background.jpg
